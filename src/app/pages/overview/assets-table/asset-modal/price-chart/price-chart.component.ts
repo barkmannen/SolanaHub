@@ -54,7 +54,7 @@ export class PriceChartComponent implements OnInit, AfterViewInit {
                     label: 'price',
                     data: priceDataHistory[1], // Y-axis data points
                     backgroundColor: gradient,
-                    borderColor: '#B84794',
+                    borderColor: '#AD3E00',
                     borderWidth: 2,
                     tension: 0.4, // This will make the line chart smoother
                     fill: true,

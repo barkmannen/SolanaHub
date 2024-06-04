@@ -1,9 +1,9 @@
 {
-  "name": "SolanaHub-v2",
-  "description": "Solana DeFi project",
-  "version": "2.1.0",
-  "author": "amir",
-  "homepage": "https://www.solanahub.app",
+  "name": "BarkHub",
+  "description": "BARK's Social Finance Hub is a revolutionary platform designed to reshape our approach to social finance by harnessing the potential of blockchain technology. At BARK, we are committed to creating a dynamic ecosystem that empowers users to make a meaningful impact on society through transparent, efficient, and impactful financial solutions.",
+  "version": "1.0.0",
+  "author": "BARK Protocol",
+  "homepage": "https://www.barkprotocol.app",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --configuration=local",
